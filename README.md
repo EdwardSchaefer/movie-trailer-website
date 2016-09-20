@@ -22,7 +22,7 @@ the styling to improve it.
 	*fresh_tomatoes.pyc: compiled version of fresh_tomatoes.py
 	*media.pyc: compiled version of media.py
 	*fresh_tomatoes.html: the webpage generated from fresh_tomatoes.py
-	*README.txt: this readme file
+	*README.md: this readme file
 
 #Changes to fresh_tomatoes.py
 -----------------------------
