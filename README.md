@@ -7,12 +7,13 @@ the styling to improve it.
 
 #Update 9/19/2016
 -----------------
-*Updated 2001: A Space Odessey and Inception posters after old image urls expired
-*Started repository to submit to GitHub
-*Changed README.TXT to README.MD and changed formatting
+
+	*Updated 2001: A Space Odessey and Inception posters after old image urls expired
+	*Started repository to submit to GitHub
+	*Changed README.TXT to README.MD and changed formatting
 
 #List of files
--------------
+--------------
 
 	*entertainment_center.py: stores the data about the movies 
 		and is run to generate the page
@@ -24,7 +25,7 @@ the styling to improve it.
 	*README.txt: this readme file
 
 #Changes to fresh_tomatoes.py
-----------------------------
+-----------------------------
 	*Line 21: Reduced top padding so everything fits
 	*Line 24: Recentered trailer by reducing top margin
 	*Lines 25-26: Doubled dimensions of trailer
@@ -36,4 +37,3 @@ the styling to improve it.
 
 
 Best viewed on Google Chrome, 1920x1080 resolution
-
